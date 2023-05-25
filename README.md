@@ -6,4 +6,4 @@ How to classic open :
 * Smartphone Android : open browser Chrome, Firefox, type address bar :
 file:///storage/emulated/0/download/quran.HTML/
 find software android Open With browser, simple open method.
-You can download audio quran mp3, look from source code, make it offline.
+* You can download audio quran mp3, look from source code, quran.HTML/player/script.js, make it offline.
