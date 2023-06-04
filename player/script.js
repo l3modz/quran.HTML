@@ -103,13 +103,13 @@ let All_surah = [{
 		singer: "Mishari Rashid al-`Afasy"
 	},
 	{
-		name: "014. Surah At-Takwir",
+		name: "014. Surah Ibrahim",
 		path: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/014.mp3",
 		img: "img/readQuran.jpg",
 		singer: "Mishari Rashid al-`Afasy"
 	},
 	{
-		name: "015. Surah Ibrahim",
+		name: "015. Surah Al-Hijr",
 		path: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/015.mp3",
 		img: "img/readQuran.jpg",
 		singer: "Mishari Rashid al-`Afasy"
